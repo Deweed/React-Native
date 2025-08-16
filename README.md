@@ -28,3 +28,9 @@ Projeto realizado como primeira avaliação semestral, foi utilizado um GET de u
 Projeto desenvolvido durante as aulas para aprendizado, o projeto consegue manipular toda a API em todos os metodos e retorna uma integração com o google maps para demonstrar a localização da pessoa necessitada. Nota Máxima!
 
 ----
+
+### 🚗 Find My Car:
+
+Uma aplicação desenvolvida para resolver um problema comum do dia a dia: esquecer onde você estacionou. O app permite que o usuário grave a localização exata de onde seu carro foi estacionado. Esses dados são armazenados em cache no dispositivo, garantindo acesso rápido e offline. Ao se perder, o usuário pode abrir o aplicativo, que utiliza a API de geolocalização do Google para sinalizar diretamente no mapa a localização salva, guiando-o de volta ao seu veículo. Nota Máxima!
+
+----
