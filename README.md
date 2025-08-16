@@ -25,6 +25,6 @@ Projeto realizado como primeira avaliação semestral, foi utilizado um GET de u
 
 ### 📸 Caminho Aberto:
 
-Projeto desenvolvido durante as aulas para aprendizado, o projeto consegue manipular toda a API em todos os metodos e retorna uma integração com o google maps para demonstrar a localização da pessoa necessitada. Projeto não avaliado!
+Projeto desenvolvido durante as aulas para aprendizado, o projeto consegue manipular toda a API em todos os metodos e retorna uma integração com o google maps para demonstrar a localização da pessoa necessitada. Nota Máxima!
 
 ----
