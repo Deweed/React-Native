@@ -23,9 +23,13 @@ Projeto realizado como primeira avaliação semestral, foi utilizado um GET de u
 
 ----
 
-### 📸 Caminho Aberto:
+### 🆘 Caminho Aberto:
 
-Projeto desenvolvido durante as aulas para aprendizado, o projeto consegue manipular toda a API em todos os metodos e retorna uma integração com o google maps para demonstrar a localização da pessoa necessitada. Nota Máxima!
+Projetado com foco na segurança e bem-estar de idosos, este aplicativo é uma poderosa ferramenta de assistência rápida para emergências domésticas. O projeto permite a manipulação completa de uma API para gerenciar usuários, contatos e localizações. Suas funcionalidades principais incluem:
+
+- <b> Botão de SOS: </b> Com um único toque, envia um pedido de socorro com a localização exata do usuário (via geolocalização) para um contato de emergência pré-definido.
+- <b> Ligação Rápida: </b> Direciona o usuário para uma ligação automática com um número de emergência registrado na API, agilizando o contato em momentos críticos.
+- <b> Gerenciamento e Mapa: </b> Permite o cadastro de novos usuários (idosos, familiares ou cuidadores) e a visualização de onde cada usuário ou clínica reside em um mapa interativo, integrado com a API do Google. Nota Máxima!
 
 ----
 
